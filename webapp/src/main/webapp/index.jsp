@@ -1,1 +1,1 @@
-Hello, My World! Version 5 for Docker
+Hello, My World! Version 7 for fully automated
